@@ -1,14 +1,12 @@
 {
   "name": "HideFamilyLibraryCount",
   "author": "numselli",
-  "manifest_version": 3,
+  "manifest_version": 9,
   "target": "Other",
   "description": "Hides family library count",
   "inject": {
     "shared.css": [
-      "QuickAccess",
-      "SP",
-      "MainMenu"
+      "bigpicture"
     ]
   }
 }
